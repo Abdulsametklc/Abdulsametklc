@@ -23,7 +23,7 @@
 <a target="_blank" href="https://www.svgrepo.com/show/354258/raspberry-pi.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="raspberry-pi" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdulsamet-kılıç" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/abdulsamet-k%C4%B1l%C4%B1%C3%A7/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://instagram.com/asametklc1 " style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulsametklc&show_icons=true&locale=en" alt="abdulsametklc" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsametklc&" alt="abdulsametklc" /></p>
