@@ -1,29 +1,15 @@
-![MasterHead](https://the-decoder.com/wp-content/uploads/2022/11/robot_writing_code_midjourney_dall_e_2.png)
-<h1 align="center">Hi 👋, I'm Abdulsamet Kılıç</h1>
-<h3 align="center">I am an AI engineer student from Türkiye</h3>
 
-- 🔭 I’m currently working on **Image processing with Python OpenCv library, Machine Learning**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asametklc1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdulsamet-kılıç) 
 
-- 🌱 I’m currently learning **Machine Learning**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdulsamet KILIÇ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdulsamet KILIÇ&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulsamet KILIÇ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence Entrepreneurship**
+---
+[![](https://visitcount.itsvg.in/api?id=Abdulsamet KILIÇ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7071784845718241281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9m2Z3tCcSIG73nHpeEE87A%3D%3D](https://www.linkedin.com/newsletters/7071784845718241281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9m2Z3tCcSIG73nHpeEE87A%3D%3D)
-
-- 💬 Ask me about **abdulsamet.kilic21@ogr.atauni.edu.tr**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdulsamet-k%C4%B1l%C4%B1%C3%A7/](https://www.linkedin.com/in/abdulsamet-k%C4%B1l%C4%B1%C3%A7/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/asametklc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asametklc1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulsametklc&show_icons=true&title_color=03000f&bg_color=ffffff&locale=en&layout=compact" alt="abdulsametklc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulsametklc&show_icons=true&hide_border=true&locale=en" alt="abdulsametklc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsametklc&" alt="abdulsametklc" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
