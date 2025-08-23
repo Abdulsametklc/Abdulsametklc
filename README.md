@@ -36,13 +36,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulsametklc&show_icons=true&locale=en" alt="abdulsametklc" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulsametklc&show_icons=true&locale=en&layout=compact" alt="abdulsametklc" /></p>
-
-<!-- Trophy kısmı -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=abdulsametklc&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" 
-      alt="abdulsametklc trophies" 
-      width="100%" />
-  </a>
-</p>
