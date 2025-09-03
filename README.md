@@ -3,7 +3,6 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -20,7 +19,6 @@
 <a target="_blank" href="https://www.svgrepo.com/show/475688/trello-color.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/475688/trello-color.svg" alt="trello" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/353935/jira.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/353935/jira.svg" alt="jira" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/373541/cuda.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/373541/cuda.svg" alt="cuda" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/354258/raspberry-pi.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="raspberry-pi" width="42" height="42" /></a>
