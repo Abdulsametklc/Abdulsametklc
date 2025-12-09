@@ -41,7 +41,7 @@
 
 <p>
   <img 
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=abdulsametklc&show_icons=true&locale=en&layout=compact" 
+       <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=abdulsametklc&layout=compact&theme=dark"
        alt="abdulsametklc" />
 </p>
 
