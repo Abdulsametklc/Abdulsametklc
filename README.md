@@ -35,7 +35,7 @@
 
 <p>
   <img align="center" 
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=abdulsametklc&show_icons=true&locale=en" 
+      <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=abdulsametklc&show_icons=true&theme=dark"
        alt="abdulsametklc" />
 </p>
 
