@@ -33,6 +33,15 @@
 <a target="_blank" href="https://instagram.com/asametklc1" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulsametklc&show_icons=true&locale=en" alt="abdulsametklc" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=abdulsametklc&show_icons=true&locale=en" 
+       alt="abdulsametklc" />
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulsametklc&show_icons=true&locale=en&layout=compact" alt="abdulsametklc" /></p>
+<p>
+  <img 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=abdulsametklc&show_icons=true&locale=en&layout=compact" 
+       alt="abdulsametklc" />
+</p>
+
