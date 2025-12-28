@@ -28,20 +28,27 @@
 </p>
 
 <h2>⚡️ Where to find me</h2>
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/abdulsamet-k%C4%B1l%C4%B1%C3%A7/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://instagram.com/asametklc1" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/abdulsamet-k%C4%B1l%C4%B1%C3%A7/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+  <a target="_blank" href="https://instagram.com/asametklc1" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+  </a>
 </p>
 
-<p>
-  <img align="center" 
-      <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=abdulsametklc&show_icons=true&theme=dark"
-       alt="abdulsametklc" />
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=abdulsametklc&show_icons=true&theme=dark"
+    alt="GitHub Stats - abdulsametklc"
+  />
 </p>
 
-<p>
-  <img 
-       <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=abdulsametklc&layout=compact&theme=dark"
-       alt="abdulsametklc" />
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs?username=abdulsametklc&layout=compact&theme=dark"
+    alt="Top Languages - abdulsametklc"
+  />
 </p>
+
 
