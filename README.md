@@ -29,15 +29,10 @@
 
 <h2>⚡️ Where to find me</h2>
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamet-k%C4%B1l%C4%B1%C3%A7/)
-[![Instagram](https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asametklc1)
-
+  <a target="_blank" href="https://www.linkedin.com/in/abdulsamet-k%C4%B1l%C4%B1%C3%A7/">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+  <a target="_blank" href="https://instagram.com/asametklc1">
+    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+  </a>
 </p>
-
-<p align="center">
-
-![Test](https://github-readme-stats.vercel.app/api?username=abdulsametklc)
-
-</p>
-
