@@ -1,46 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="Abdulsamet Kılıç. Computer Engineer, Computer Vision.">
   <defs>
     <linearGradient id="ink" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1280" y2="0">
-      <stop offset="0" stop-color="#c9cdf6"/><stop offset=".5" stop-color="#eeeef0"/><stop offset="1" stop-color="#ffc9a3"/>
+      <stop offset="0" stop-color="#67e8f9"/><stop offset=".5" stop-color="#eeeef0"/><stop offset="1" stop-color="#f0abfc"/>
     </linearGradient>
-    <radialGradient id="blue" cx="0" cy=".4" r=".8"><stop offset="0" stop-color="#2636aa" stop-opacity=".7"/><stop offset="1" stop-color="#2636aa" stop-opacity="0"/></radialGradient>
-    <radialGradient id="orange" cx="1" cy=".6" r=".75"><stop offset="0" stop-color="#be5c1c" stop-opacity=".65"/><stop offset="1" stop-color="#be5c1c" stop-opacity="0"/></radialGradient>
+    <radialGradient id="blue" cx="0" cy=".4" r=".8"><stop offset="0" stop-color="#4f46e5" stop-opacity=".7"/><stop offset="1" stop-color="#4f46e5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orange" cx="1" cy=".6" r=".75"><stop offset="0" stop-color="#db2777" stop-opacity=".65"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
     <clipPath id="frame"><rect width="1280" height="400" rx="16"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="1280" height="400" fill="#0c0e14"/>
+    <rect width="1280" height="400" fill="#0b0f1f"/>
     <rect width="1280" height="400" fill="url(#blue)"/>
     <rect width="1280" height="400" fill="url(#orange)"/>
     <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1280" y2="0" spreadMethod="reflect">
-      <stop offset="0" stop-color="#c9cdf6"/><stop offset=".5" stop-color="#f4f4f6"/><stop offset="1" stop-color="#ffc9a3"/>
+      <stop offset="0" stop-color="#67e8f9"/><stop offset=".5" stop-color="#ffffff"/><stop offset="1" stop-color="#f0abfc"/>
       <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1280 0;0 0" dur="16s" repeatCount="indefinite"/>
     </linearGradient>
     <path d="M127.7 123.7H88.6L83.2 142H48.2L89.9 30.9H127.4L169.1 142H133.2ZM120.5 99.6 108.3 59.7 96.1 99.6ZM177.9 30.9H242.2Q258.2 30.9 266.8 38.8Q275.4 46.8 275.4 58.6Q275.4 68.4 269.3 75.5Q265.2 80.2 257.3 82.9Q269.3 85.8 275 92.8Q280.6 99.8 280.6 110.4Q280.6 119 276.6 125.9Q272.6 132.8 265.6 136.8Q261.3 139.3 252.6 140.5Q241 142 237.2 142H177.9ZM212.5 74.5H227.5Q235.5 74.5 238.6 71.7Q241.8 68.9 241.8 63.7Q241.8 58.9 238.6 56.1Q235.5 53.4 227.7 53.4H212.5ZM212.5 118.1H230Q238.9 118.1 242.6 115Q246.2 111.8 246.2 106.5Q246.2 101.6 242.6 98.6Q239 95.6 230 95.6H212.5ZM296.7 30.9H347.7Q362.8 30.9 372.1 35Q381.4 39.1 387.5 46.7Q393.5 54.4 396.3 64.5Q399 74.7 399 86.1Q399 103.9 394.9 113.7Q390.9 123.5 383.7 130.1Q376.5 136.8 368.2 139Q356.9 142 347.7 142H296.7ZM331.1 56.1V116.8H339.5Q350.3 116.8 354.8 114.4Q359.3 112 361.9 106Q364.5 100.1 364.5 86.7Q364.5 69.1 358.7 62.6Q353 56.1 339.6 56.1ZM487.1 30.9H521.3V97.1Q521.3 107 518.2 115.7Q515.2 124.5 508.6 131Q502.1 137.6 494.9 140.3Q484.9 144 470.8 144Q462.7 144 453.1 142.8Q443.5 141.7 437.1 138.3Q430.7 135 425.3 128.7Q420 122.5 418 115.9Q414.8 105.3 414.8 97.1V30.9H449.1V98.7Q449.1 107.8 454.1 112.9Q459.2 118.1 468.1 118.1Q477 118.1 482 113Q487.1 108 487.1 98.7ZM541.8 30.9H576.1V114.6H629.7V142H541.8ZM637 105.2 669.7 103.2Q670.8 111.2 674 115.3Q679.3 122.1 689.2 122.1Q696.5 122.1 700.5 118.6Q704.5 115.2 704.5 110.6Q704.5 106.3 700.7 102.9Q696.9 99.5 683.1 96.5Q660.5 91.4 650.9 83Q641.2 74.5 641.2 61.5Q641.2 52.9 646.2 45.3Q651.1 37.7 661.1 33.4Q671.1 29 688.4 29Q709.7 29 720.9 36.9Q732.1 44.8 734.2 62.1L701.8 64Q700.6 56.5 696.4 53.1Q692.3 49.7 685 49.7Q679 49.7 676 52.2Q673 54.8 673 58.4Q673 61.1 675.5 63.2Q677.9 65.4 687 67.3Q709.5 72.1 719.2 77.1Q729 82.1 733.4 89.4Q737.8 96.8 737.8 105.8Q737.8 116.5 731.9 125.6Q726 134.6 715.4 139.2Q704.8 143.9 688.7 143.9Q660.3 143.9 649.4 133Q638.5 122.1 637 105.2ZM821.2 123.7H782.1L776.7 142H741.6L783.4 30.9H820.8L862.6 142H826.7ZM814 99.6 801.7 59.7 789.5 99.6ZM870.9 30.9H916.1L933.5 98.5L950.9 30.9H995.9V142H967.9V57.3L946.1 142H920.7L899 57.3V142H870.9ZM1015.5 30.9H1107.5V54.6H1049.9V72.3H1103.3V94.9H1049.9V116.8H1109.1V142H1015.5ZM1117.5 30.9H1221.9V58.3H1186.9V142H1152.6V58.3H1117.5ZM59.5 167.5H93.9V209.5L129.9 167.5H175.5L135 209.4L177.3 278.6H135L111.6 232.9L93.9 251.5V278.6H59.5ZM187.8 167.5H222.2V278.6H187.8ZM244.5 167.5H278.9V251.2H332.4V278.6H244.5ZM347.1 167.5H381.6V278.6H347.1ZM477.9 233.2 508 242.3Q504.9 254.9 498.4 263.4Q491.9 271.9 482.2 276.2Q472.6 280.6 457.6 280.6Q439.5 280.6 428 275.3Q416.6 270 408.2 256.8Q399.9 243.5 399.9 222.8Q399.9 195.2 414.6 180.4Q429.2 165.6 456.1 165.6Q477 165.6 489.1 174.1Q501.1 182.6 506.9 200.1L476.6 206.9Q475 201.8 473.3 199.5Q470.4 195.5 466.2 193.4Q462 191.3 456.9 191.3Q445.2 191.3 439 200.7Q434.3 207.7 434.3 222.6Q434.3 241.1 439.9 247.9Q445.5 254.8 455.7 254.8Q465.5 254.8 470.6 249.3Q475.6 243.7 477.9 233.2ZM435.9 291.1 438.2 282.2Q445.3 280.4 451.5 280.4Q464.5 280.4 469.4 284.8Q474.3 289.2 474.3 295.2Q474.3 298.8 472.1 302.7Q469.8 306.6 464.1 308.9Q458.3 311.3 448.8 311.3Q440.1 311.3 428.5 309.3V300Q436.3 301.5 445.2 301.5Q451.7 301.5 454 299.7Q456.4 298 456.4 295.2Q456.4 293 454.5 291.4Q452.6 289.8 448.6 289.8Q443.2 289.8 435.9 291.1Z" fill="url(#flow)"/>
     <text x="557" y="207" font-size="31" fill="#eeeef0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">Computer Engineer</text>
     <text x="557" y="245" font-size="31" fill="#eeeef0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">Computer Vision</text>
-    <text x="557" y="281" font-size="19" fill="#ffc9a3" opacity="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Detection · Tracking · ReID<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.000;0.030;0.220;0.250;1.000" values="0;1;1;0;0"/></text><text x="557" y="281" font-size="19" fill="#ffc9a3" opacity="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Real-time vision systems<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.000;0.250;0.280;0.470;0.500;1.000" values="0;0;1;1;0;0"/></text><text x="557" y="281" font-size="19" fill="#ffc9a3" opacity="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">LLMs and RAG<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.000;0.500;0.530;0.720;0.750;1.000" values="0;0;1;1;0;0"/></text><text x="557" y="281" font-size="19" fill="#ffc9a3" opacity="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Full stack products<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.000;0.750;0.780;0.970;1.000" values="0;0;1;1;0"/></text>
+    <text x="557" y="281" font-size="19" fill="#f0abfc" opacity="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Detection · Tracking · ReID<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.000;0.030;0.220;0.250;1.000" values="0;1;1;0;0"/></text><text x="557" y="281" font-size="19" fill="#f0abfc" opacity="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Real-time vision systems<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.000;0.250;0.280;0.470;0.500;1.000" values="0;0;1;1;0;0"/></text><text x="557" y="281" font-size="19" fill="#f0abfc" opacity="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">LLMs and RAG<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.000;0.500;0.530;0.720;0.750;1.000" values="0;0;1;1;0;0"/></text><text x="557" y="281" font-size="19" fill="#f0abfc" opacity="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Full stack products<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" keyTimes="0.000;0.750;0.780;0.970;1.000" values="0;0;1;1;0"/></text>
+    <g stroke="url(#ink)" fill="none">
+      <circle cx="1120" cy="262" r="82" stroke-opacity=".55"/><circle cx="1120" cy="262" r="54" stroke-opacity=".3"/><circle cx="1120" cy="262" r="27" stroke-opacity=".3"/>
+      <path d="M1038 262H1202M1120 180V344" stroke-opacity=".2"/>
+    </g>
+    <g><animateTransform attributeName="transform" type="rotate" from="0 1120 262" to="360 1120 262" dur="5s" repeatCount="indefinite"/>
+      <path d="M1120 262L1202 262A82 82 0 0 0 1187 215Z" fill="#67e8f9" fill-opacity=".22"/>
+      <path d="M1120 262H1202" stroke="#67e8f9" stroke-width="1.6"/>
+    </g><circle cx="1164" cy="232" r="4" fill="#f0abfc" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.45;1" dur="5s" begin="0.4s" repeatCount="indefinite"/></circle><circle cx="1084" cy="218" r="4" fill="#f0abfc" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.45;1" dur="5s" begin="1.5s" repeatCount="indefinite"/></circle><circle cx="1068" cy="288" r="4" fill="#f0abfc" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.45;1" dur="5s" begin="2.8s" repeatCount="indefinite"/></circle><circle cx="1148" cy="310" r="4" fill="#f0abfc" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.45;1" dur="5s" begin="4.1s" repeatCount="indefinite"/></circle>
     <g stroke="url(#ink)" fill="none" stroke-width="1.6" stroke-linejoin="round">
       <animateTransform attributeName="transform" type="translate" from="-120 0" to="1400 0" dur="26s" begin="-18s" repeatCount="indefinite"/>
       <path d="M-24 395V384L-18 376H-2L8 384L21 386L24 390V395ZM-10 376V384M-24 384H8"/>
-      <circle cx="-13" cy="395" r="4.5" fill="#0c0e14"/><circle cx="13" cy="395" r="4.5" fill="#0c0e14"/>
+      <circle cx="-13" cy="395" r="4.5" fill="#0b0f1f"/><circle cx="13" cy="395" r="4.5" fill="#0b0f1f"/>
       <rect x="-29" y="371" width="58" height="28" stroke-width="1"/>
       <rect x="-29.5" y="356" width="60" height="15" fill="#eeeef0" stroke="none"/>
-      <text x="-25" y="367" fill="#0c0e14" stroke="none" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">#07 car</text>
+      <text x="-25" y="367" fill="#0b0f1f" stroke="none" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">#07 car</text>
     </g>
     <g stroke="url(#ink)" fill="none" stroke-width="1.6" stroke-linejoin="round">
       <animateTransform attributeName="transform" type="translate" from="-120 0" to="1400 0" dur="36s" begin="-9s" repeatCount="indefinite"/>
       <path d="M-24 395V384L-18 376H-2L8 384L21 386L24 390V395ZM-10 376V384M-24 384H8"/>
-      <circle cx="-13" cy="395" r="4.5" fill="#0c0e14"/><circle cx="13" cy="395" r="4.5" fill="#0c0e14"/>
+      <circle cx="-13" cy="395" r="4.5" fill="#0b0f1f"/><circle cx="13" cy="395" r="4.5" fill="#0b0f1f"/>
       <rect x="-29" y="371" width="58" height="28" stroke-width="1"/>
       <rect x="-29.5" y="356" width="60" height="15" fill="#eeeef0" stroke="none"/>
-      <text x="-25" y="367" fill="#0c0e14" stroke="none" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">#12 car</text>
+      <text x="-25" y="367" fill="#0b0f1f" stroke="none" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">#12 car</text>
     </g>
     <g stroke="url(#ink)" fill="none" stroke-width="1.6" stroke-linejoin="round">
       <animateTransform attributeName="transform" type="translate" from="1400 0" to="-120 0" dur="21s" begin="-13s" repeatCount="indefinite"/>
       <path d="M-20 354Q-10 350 14 353H22M-20 354Q-6 357 14 355L22 353M-6 353L4 345H8L4 354M18 353L24 346M-22 349V359"/>
       <rect x="-28" y="341" width="56" height="22" stroke-width="1"/>
       <rect x="-28.5" y="326" width="60" height="15" fill="#eeeef0" stroke="none"/>
-      <text x="-24" y="337" fill="#0c0e14" stroke="none" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">#23 uav</text>
+      <text x="-24" y="337" fill="#0b0f1f" stroke="none" font-size="11" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">#23 uav</text>
     </g>
   </g>
 </svg>
